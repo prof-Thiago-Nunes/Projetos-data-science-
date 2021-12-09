@@ -11,14 +11,12 @@
 **Background in:** Python, Machine Learning, physical and Mathematical Optimisation.
 
 **Links:**
-* [Blog]()
-* [LinkedIn]()
-* [Medium]()
+* [LinkedIn](www.linkedin.com/in/prof-thiago-nunes)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os projetos desenvolvidos:
 
-* ** escreva o projeto aqui:** 
+* ** Prevent IA:** https://bit.ly/31CbVOA
 
 ---
