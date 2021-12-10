@@ -13,7 +13,7 @@ Graduado em Física pelo Instituto Federal do Amazonas, trabalhando atualmente n
 **Background in:** Python, Machine Learning and Physics.
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/prof-thiago-nunes)
+* [LinkedIn](https://www.linkedin.com/in/prof-thiago-nunes)
 
 
 ## Projetos:
