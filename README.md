@@ -7,7 +7,7 @@
 # Thiago Nunes
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-Graduado em Física pelo Instituto Federal do Amazonas, trabalhando atualmente na Escola Nilton Lins como professor de programação e ciências, comecei na área de ciência de dados na graduação, resolvendo problemas da indústria, medicina e comércio utilizando inteligência artificial.
+Graduado em Física pelo Instituto Federal do Amazonas, trabalhando atualmente na Escola Nilton Lins como professor de Programação e Ciências, comecei na área de ciência de dados na graduação, resolvendo problemas da indústria, medicina e comércio utilizando inteligência artificial.
 
 
 **Background in:** Python, Machine Learning and Physics.
