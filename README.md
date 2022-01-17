@@ -18,7 +18,7 @@ Graduado em Física pelo Instituto Federal do Amazonas, trabalhando atualmente n
 
 ## Projetos:
 Veja os projetos desenvolvidos:
-* ** Analizando dados do Airbnb para a cidade de Nova York:
+* ** Analizando dados do Airbnb para a cidade de Nova York: https://bit.ly/33kzDzH
 * ** Prevent IA:** https://bit.ly/31CbVOA
 
 ---
