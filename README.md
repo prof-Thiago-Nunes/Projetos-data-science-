@@ -14,6 +14,7 @@ Graduado em Física pelo Instituto Federal do Amazonas, trabalhando atualmente n
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/prof-thiago-nunes)
+* [Medium](https://medium.com/@thiagonunestm3)
 
 
 ## Projetos:
