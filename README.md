@@ -15,7 +15,7 @@ Físico formado pelo Instituto Federal do Amazonas, trabalhando atualmente nas E
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/prof-thiago-nunes)
 * [Medium](https://medium.com/@thiagonunestm3)
-* [Instagram](https://medium.com/@thiagonunestm3)
+* [Instagram](https://www.instagram.com/thiago_nunes.py/)
 
 
 ## Projetos:
