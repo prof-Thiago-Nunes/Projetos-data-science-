@@ -7,14 +7,15 @@
 # Thiago Nunes
 <sub>*Professor pesquisador* da Escola Nilton Lins 
 
-Graduado em Física pelo Instituto Federal do Amazonas, trabalhando atualmente na Escola Nilton Lins como professor de Ciências e Programação (voltado para o ensino de Machine Learning), comecei na área de Ciência de dados na graduação, resolvendo problemas da indústria, comércio e medicina utilizando Machine Learning.
+Físico formado pelo Instituto Federal do Amazonas, trabalhando atualmente nas Escolas Nilton Lins como professor de Ciências e Programação (voltado para o ensino de Machine Learning utilizando a linguagem Python como ferramenta). Comecei na área de Ciência de dados na graduação, resolvendo problemas da indústria e comércio utilizando técnicas de Machine Learning.
 
 
-**Background in:** Python, Machine Learning and Science.
+**Background in:** Machine Learning, Python and Science.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/prof-thiago-nunes)
 * [Medium](https://medium.com/@thiagonunestm3)
+* [Instagram](https://medium.com/@thiagonunestm3)
 
 
 ## Projetos:
