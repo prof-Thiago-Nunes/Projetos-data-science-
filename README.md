@@ -20,7 +20,7 @@ Físico formado pelo Instituto Federal do Amazonas, trabalhando atualmente nas E
 
 ## Projetos:
 Veja os projetos desenvolvidos:
-* ** Analisando dados do Airbnb para a cidade de Nova York: https://bit.ly/33kzDzH
-* ** Prevent IA:** https://bit.ly/31CbVOA
+* **Analisando dados do Airbnb para a cidade de Nova York**: https://bit.ly/33kzDzH
+* **Prevent IA:** https://bit.ly/31CbVOA
 
 ---
