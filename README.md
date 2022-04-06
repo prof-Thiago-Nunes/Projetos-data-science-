@@ -15,11 +15,9 @@ Físico formado pelo Instituto Federal do Amazonas, trabalhando atualmente nas E
 
 
 **Background in:** Machine Learning, Python and Science.
+  
+Aqui você encontra os notebooks dos meus projetos na área de Data Science, além de Dashboards interativos utilizando bibliotecas em Python ou em Power BI. Para acessar os projetos, basta apertar nos icones ao lado.
 
-**Links:**
-* [LinkedIn](https://www.linkedin.com/in/prof-thiago-nunes)
-* [Medium](https://medium.com/@thiagonunestm3)
-* [Instagram](https://www.instagram.com/thiago_nunes.py/)
 
 
 ## Projetos:
