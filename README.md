@@ -24,7 +24,8 @@ Físico formado pelo Instituto Federal do Amazonas, trabalhando atualmente nas E
 
 ## Projetos:
 Veja os projetos desenvolvidos:
-* **Analisando dados do Airbnb para a cidade de Nova York**: https://bit.ly/33kzDzH
+<h3><a href='https://github.com/prof-Thiago-Nunes/Projetos-data-science-/blob/main/Analisando_os_Dados_do_Airbnb.ipynb'><img height= "23px" width="70px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> <a href="https://medium.com/@thiagonunestm3/an%C3%A1lise-do-airbnb-sobre-new-york-city-1d6c5aa070e"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a>     Analisando dados do Airbnb - New York city<h3>
+  
 * **Prevent IA:** https://bit.ly/31CbVOA
 
 ---
