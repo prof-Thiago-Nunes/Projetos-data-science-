@@ -26,6 +26,5 @@ Veja os projetos desenvolvidos:
   
 <h3><a href='https://medium.com/@thiagonunestm3/a-import%C3%A2ncia-da-an%C3%A1lise-epidemiol%C3%B3gica-da-covid-19-a3a43e96d60f'><img height= "23px" width="70px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> <a href="https://medium.com/@thiagonunestm3/a-import%C3%A2ncia-da-an%C3%A1lise-epidemiol%C3%B3gica-da-covid-19-a3a43e96d60f"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a>     A importância da análise epidemiológica da Covid-19<h3>
   
-<h3><a href='https://medium.com/@thiagonunestm3/a-import%C3%A2ncia-da-an%C3%A1lise-epidemiol%C3%B3gica-da-covid-19-a3a43e96d60f'><img height= "23px" width="70px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> <a href="[https://medium.com/@thiagonunestm3/a-import%C3%A2ncia-da-an%C3%A1lise-epidemiol%C3%B3gica-da-covid-19-a3a43e96d60f](https://colab.research.google.com/drive/1Wx17L9RVI9qXB2AgPyYEjGALIuKJq4hu#scrollTo=dYqkxzxJb464)"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a>     Classificando Corpos Celestes com Machine Learning <h3>
 
 ---
