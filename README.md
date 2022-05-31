@@ -16,7 +16,7 @@ Físico formado pelo Instituto Federal do Amazonas, trabalhando atualmente nas E
 
 **Background in:** Data Science, Python and Science.
   
-Aqui você encontra os notebooks dos meus projetos na área de Data Science, além de Dashboards interativos utilizando bibliotecas em Python ou em Power BI. Para acessar os projetos, basta apertar nos icones ao lado.
+Aqui você encontra os notebooks dos meus projetos na área de Data Science, além de Dashboards interativos utilizando bibliotecas em Python. Para acessar os projetos, basta apertar nos icones ao lado.
 
 
 
