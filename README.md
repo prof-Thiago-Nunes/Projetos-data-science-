@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="Banner oficial.png" >
+  <img src="Data Scientist.png" >
 </p>
 
 # Thiago Nunes
