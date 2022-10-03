@@ -23,7 +23,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, al�
 ## Projetos de Data Science:
 Veja os projetos desenvolvidos:
 
-<h3><a href='https://github.com/prof-Thiago-Nunes/Projetos-data-science-/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb'><img height= "23px" width="70px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Detecção de fraudes em cartão de crédito <h3>
+<h3><a href='https://github.com/prof-Thiago-Nunes/Projetos-data-science-/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb'><img height= "23px" width="70px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Churn Prediction para uma empresa de Telecomunicações <h3>
   
  
 <h3><a href='https://github.com/prof-Thiago-Nunes/Projetos-data-science-/blob/main/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb'><img height= "23px" width="70px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> <a href="https://www.linkedin.com/feed/update/urn:li:activity:6945482990575611904?utm_source=linkedin_share&utm_medium=member_desktop_web"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Detecção de fraudes em cartão de crédito <h3>
