@@ -23,7 +23,8 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, al�
 ## Projetos de Data Science:
 Veja os projetos desenvolvidos:
 
-<h3><a href='https://github.com/prof-Thiago-Nunes/Projetos-data-science-/blob/main/Avalia%C3%A7%C3%A3o_de_risco_de_cr%C3%A9dito_da_Nubank.ipynb'><img height= "23px" width="70px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Avaliação de risco de crédito da Nubank <h3>
+
+<h3><a href='https://github.com/prof-Thiago-Nunes/Projetos-data-science-/blob/main/Avalia%C3%A7%C3%A3o_de_risco_de_cr%C3%A9dito_da_Nubank.ipynb'><img height= "23px" width="70px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> <a href="https://medium.com/@thiagonunestm3/avalia%C3%A7%C3%A3o-de-risco-de-cr%C3%A9dito-de-cr%C3%A9dito-para-uma-institui%C3%A7%C3%A3o-financeira-c2e0a90ae61c"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Detecção de fraudes em cartão de crédito <h3>
   
 
 <h3><a href='https://github.com/prof-Thiago-Nunes/Projetos-data-science-/blob/main/Churn_Prediction_para_uma_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb'><img height= "23px" width="70px"src="https://img.shields.io/badge/Jupyter-F37626.svg?&amp;style=for-the-badge&amp;logo=Jupyter&amp;logoColor=white"></a> <a href=""><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="70px"></a> Churn Prediction para uma empresa de Telecomunicações <h3>
